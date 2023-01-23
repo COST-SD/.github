@@ -21,3 +21,8 @@
     <li>Create a culture of open-source within the organization by promoting open-source values and encouraging participation in open-source projects.</li>
 </ol>
 <h4> Let's start you open source journey from here! We always welcome you. (^_^)</h4>
+
+<div align="center">
+<br>
+<a href="https://github.com/COST-SD/support/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization"><kbd> <br> Join us <br> </kbd></a>
+</div>
