@@ -1,7 +1,6 @@
 <div align="center">
     <h1>Collaboration With Us</h1>
         <img width="200" src="https://user-images.githubusercontent.com/79409258/226189115-997edffd-041e-4c74-9152-55f6139806da.png">
-
     <h6>
         🤝 Join the COST-SD community and start your Open Source Contribution 🤝
         <br><br>
