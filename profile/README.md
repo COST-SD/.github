@@ -1,6 +1,7 @@
 <div align="center">
     <h1>Collaboration With Us</h1>
-        <img width="200" src="https://user-images.githubusercontent.com/79409258/213653315-d7d2475f-4743-486f-be6f-9a13cd503b15.png">
+        <img width="200" src="https://user-images.githubusercontent.com/79409258/226189115-997edffd-041e-4c74-9152-55f6139806da.png">
+
     <h6>
         🤝 Join the COST-SD community and start your Open Source Contribution 🤝
         <br><br>
@@ -26,3 +27,4 @@
 <br>
 <a href="https://github.com/COST-SD/support/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization"><kbd> <br> Join us <br> </kbd></a>
 </div>
+
